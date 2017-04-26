@@ -1,0 +1,27 @@
+﻿  TEST.cpp
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(394): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(402): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(410): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(466): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(498): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(520): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(527): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(534): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(564): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(570): warning C4018: '<': signed/unsigned mismatch
+c:\users\rojazad\documents\visual studio 2015\projects\online book store\online book store\test.cpp(576): warning C4018: '<': signed/unsigned mismatch
+  ProductToPurchase.cpp
+  Product.cpp
+  Payment.cpp
+  MusicCD.cpp
+  Generating Code...
+  Online Book Store.vcxproj -> C:\Users\ROJAZAD\documents\visual studio 2015\Projects\Online Book Store\Debug\Online Book Store.exe
+  Online Book Store.vcxproj -> C:\Users\ROJAZAD\documents\visual studio 2015\Projects\Online Book Store\Debug\Online Book Store.pdb (Partial PDB)
